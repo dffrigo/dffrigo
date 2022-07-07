@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Frigo | Jr developer</h1>
+<h1 align="center">Hi 👋, I'm Daniel Frigo | Web developer</h1>
 <h3 align="center">A tech enthusiast made in Brazil 😀</h3>
 
 - 🔭 I’m currently working on [Authentication project with Express, Node.JS, MongoDB and JWT](https://github.com/dffrigo/1stloginprj)
