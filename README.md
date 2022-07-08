@@ -22,7 +22,6 @@
 
 
 
-github_user_name: ${{ github.dffrigo }}
-dist/github-snake.svg
+
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
