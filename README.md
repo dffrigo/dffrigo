@@ -22,7 +22,10 @@
 <div> 
 <a href="https://www.linkedin.com/in/daniel-f-frigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto: ddffffrigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
+
+<img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+
+</br>
 
 </br>
 ![Snake animation]( https://github.com/dffrigo/dffrigo/blob/output/github-contribution-grid-snake.svg)
